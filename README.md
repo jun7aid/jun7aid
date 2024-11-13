@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaidkhan8&label=Profile%20views&color=0e75b6&style=flat" alt="junaidkhan8" /> </p>
 
-- 🔭 I’m currently working on **Timezone App**
+- 🔭 I’m currently working in **Rocket Digital Pakistan**
 
-- 🌱 I’m currently learning **Advance Level Flutter**
+- 🌱 I’m currently learning **Advance Level Flutter and SQA Automation**
 
-- 💬 Ask me about **Flutter, Android Development**
+- 💬 Ask me about **Flutter, Android Development, SQA, Manual Testing, Automation**
 
 - 📫 How to reach me **junaidkhan4340@gmail.com**
 
